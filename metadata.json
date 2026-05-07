@@ -1,0 +1,14 @@
+{
+  "name": "ElderCare Assist",
+  "description": "A premium healthcare platform connecting families with verified home nurses, caregivers, and physiotherapists for elderly support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "HEALTHCARE_SERVICES",
+    "CAREGIVER_BOOKING",
+    "ADMIN_DASHBOARD"
+  ]
+}
