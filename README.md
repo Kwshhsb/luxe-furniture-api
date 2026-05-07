@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/36fc5e11-773f-48de-91bd-d9032
 3. Run the app:
    `npm run dev`
 # eldercare24
+# luxe-furniture-api
